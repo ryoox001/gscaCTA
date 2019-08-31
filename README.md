@@ -6,4 +6,5 @@ Since Ryoo and Hwang (2017) introduced CTA within GSCA, it has been asked to dev
 This will be deleted due to the naming issue.
 
 Why don't we?
->>>>>>> 096d3a7e92e5c09acf7556e6756a6dac4c63e84f
+
+hahaha
