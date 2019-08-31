@@ -14,5 +14,13 @@ Example:
 * gesca code
 * STATA do file
 
+Confirmatory tetrad analysis:
+* Covariance-based SEM
+    + in SAS
+    + in STATA
+* Variance-based SEM
+    + GSCA
+    + PLS-PM
+
 ## Date: 8/31/2019  
 Since Ryoo and Hwang (2017) introduced CTA within GSCA, it has been asked to develop a package in R. This project is for address the request from August 31, 2019

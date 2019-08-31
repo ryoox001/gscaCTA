@@ -3,35 +3,35 @@ title: 'gscaCTA: An R package of evaluating GSCA models using CTA'
 author: "Ji Hoon Ryoo, Ph.D."
 date: "August 31, 2019"
 output:
-  beamer_presentation: default
   ioslides_presentation: default
+  beamer_presentation: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Setting up Git in RStudio
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+* GitHub Repository: gscaCTA
+    + Collaborators: Ji Hoon Ryoo, Hyun Suk Ryoo, and Heungsun Hwang
+* Youtube Video for Git and RStudio
+    + [RStudio and Git - an Overview (Part 1)](https://www.youtube.com/watch?v=KjLycV1IWqc)
+    + [RStudio and Git - an Overview (Part 2)](https://www.youtube.com/watch?v=qcjpHFwCugE)
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+* Zotero - Reference management: ryoox001
+    + Ask me how to set up
+* Youtube for installing and using Zotero
+    + [Zotero - Part I](https://www.youtube.com/watch?v=3yWoLSJMrlw)
+    + [Zotero - Part II](https://www.youtube.com/watch?v=yPtU9fWY3nU)    
 
-## Slide with Bullets
+## Resources
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- Covariance-based SEM
+    + In SAS
+    + In STATA
+- Variance-based SEM
+    + GSCA
+    + PLS-PM
 
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
-```
-
-## Slide with Plot
-
-```{r pressure}
-plot(pressure)
-```
 
