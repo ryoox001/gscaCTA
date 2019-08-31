@@ -9,5 +9,10 @@ Product:
 * gscaCTA: An R package \
 * New papers that we apply gscaCTA into growth mixture modeling
 
+Example:
+* Data: ECLS-K social skill
+* gesca code
+* STATA do file
+
 ## Date: 8/31/2019  
 Since Ryoo and Hwang (2017) introduced CTA within GSCA, it has been asked to develop a package in R. This project is for address the request from August 31, 2019
